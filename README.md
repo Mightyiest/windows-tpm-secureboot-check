@@ -1,4 +1,4 @@
-# windows-tpm-secureboot-check
+![sample](https://github.com/user-attachments/assets/6a25c09b-8d7a-42ff-b468-1bedb792d37d)# windows-tpm-secureboot-check
 
 A simple batch script to check TPM 2.0 and Secure Boot status on Windows systems, along with displaying motherboard information. Provides color-coded output for easy readability.
 
@@ -11,6 +11,8 @@ A simple batch script to check TPM 2.0 and Secure Boot status on Windows systems
     *   **Green:** Enabled
     *   **Red:** Disabled or Not Found
 *   Easy to use - just run the `.bat` file as administrator.
+## Sample Image
+![sample](https://github.com/user-attachments/assets/27b5af68-6904-40c9-a618-4c1e0bd4990e)
 
 ## Requirements
 
